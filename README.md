@@ -18,6 +18,25 @@ Setelah itu program akan menampilkan **Menu Awal**.
 ### Kegunaan Setiap Menu pada Menu Awal
 **1. Tambah Rumah**  
 ![image](https://github.com/user-attachments/assets/cbcb0a1f-84c3-4fe8-9f34-2b885a634199)  
-Untuk di menu ini user akan diminta untuk memasukan Blok (String), Tipe (String), dan Harga (Integer) Rumah, untuk menambahkan data rumah baru.  
-**2. Tampilkan Semua Rumah**
+Untuk di menu ini user akan diminta untuk memasukan Blok (String), Tipe (String), dan Harga (Integer) Rumah, untuk **menambahkan** data rumah baru.  
+**2. Tampilkan Semua Rumah**  
+![image](https://github.com/user-attachments/assets/f31f805c-e3b4-4f64-a925-88fdce15ad57)  
+Untuk di menu ini program akan menampilkan semua data rumah yang ada.  
+**3. Hapus Rumah**  
+![Screenshot 2024-09-30 110913](https://github.com/user-attachments/assets/07ede9f4-8fb0-4f91-900c-8c4e08f44fbb)
+![Screenshot 2024-09-30 110927](https://github.com/user-attachments/assets/3aee3b63-f858-4ad9-ab27-10a6c35a22cf)  
+Untuk di menu ini program akan meminta user untuk memasukan **Alamat** dari data rumah yang ingin **dihapus**.  
+**4. Update Rumah**  
+![image](https://github.com/user-attachments/assets/c50fb125-30cb-4a50-98d6-8fdca409246a)
+![image](https://github.com/user-attachments/assets/00ee5244-9ae9-4a58-974b-027232c3b695)   
+Untuk di menu ini program akan meminta untuk memasukan **Alamat** dari data rumah yang ingin **diubah**.  
+**5. Keluar**  
+![image](https://github.com/user-attachments/assets/6b6c1bdc-c9da-407f-84a2-f9f54ff00aba)  
+Untuk di menu ini, user akan keluar dari program.
+
+
+
+
+
+
 
